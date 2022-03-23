@@ -3121,7 +3121,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .bricks-wrapper .entry__thumb {
     overflow: hidden;
     position: relative;
-    height:96px;
+    /* height:96px; */
 }
 
 .bricks-wrapper .entry__thumb img {
@@ -3129,7 +3129,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     margin: 0;
-    height:96px;
+    /* height:96px; */
 }
 
 .bricks-wrapper .entry__thumb .thumb-link::before {
